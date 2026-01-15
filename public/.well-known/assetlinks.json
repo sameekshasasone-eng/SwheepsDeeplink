@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sixfaces.summerswheeps",
+      "sha256_cert_fingerprints": [
+        "01:76:32:43:40:C5:05:D2:CC:A6:E8:4E:25:9A:17:6C:5D:FC:B6:FB:C8:07:2B:07:BE:F0:9A:31:1D:7A:75:B7"
+      ]
+    }
+  }
+]
