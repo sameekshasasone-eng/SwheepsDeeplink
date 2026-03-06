@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/((?!.well-known).*|profile|games|results)",
+      "destination": "https://play.google.com/store/apps/details?id=com.sixfaces.summerswheeps",
+      "permanent": false
+    }
+  ]
+}
